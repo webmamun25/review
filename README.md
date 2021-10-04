@@ -30,3 +30,13 @@ Open[https://github.com/ProgrammingHeroWC4/review-website-webmamun25]to view it 
 **Note: It care**
 
 It care is an institute to build your career.If you are interested to learn something new please visit our website.it is must be paid courses provide.
+## Technology I used for this website
+
+1.React
+2.React bootstrap(with icons)
+3.Rechart
+4.React router
+
+## what about Design?
+
+Design not look at propesional.But i think i try my best.
