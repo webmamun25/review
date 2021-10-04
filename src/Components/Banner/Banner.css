@@ -1,0 +1,10 @@
+.header-banner{
+    height: 700px;
+    background-image: url('../../images/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: cover;
+    color:rgb(195, 27, 27);
+    
+}

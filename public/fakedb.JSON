@@ -1,0 +1,14 @@
+[
+   { "id":1 ,"serviceName": "Full Stack web-development","Procedure":"online","price":3000,"number_of_seats":400,"img":"https://qph.fs.quoracdn.net/main-qimg-157ca9cf7d924aa9990d8d9c28133180"}, 
+   {"id":2 ,"serviceName":" web designing ","Procedure":"offline","price":1000,"number_of_seats":400,"img":"https://miro.medium.com/max/900/0*ayngCEtCnwNcIKrl.jpg"}, 
+   {"id":3 ,"serviceName":" Backend development","Procedure":"online","price":2000,"number_of_seats":400,"img":"https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/12/23053531/backend-web-development-guide.jpg"}, 
+   {"id":4 ,"serviceName":" Digital marketing","Procedure":"offline","price":5000,"number_of_seats":300,"img":"https://siit.com.bd/wp-content/uploads/2019/12/digital-markting.jpg"}, 
+   {"id":5 ,"serviceName":" App-development","Procedure":"online","price":3000,"number_of_seats":400,"img":"https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5df2190b8638a1576147211.jpg"}, 
+   {"id":6 ,"serviceName":" Graphics Design","Procedure":"offline","price":4000,"number_of_seats":300,"img":"https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1"}, 
+   {"id":7 ,"serviceName":" IELTS Learning ","Procedure":"online","price":2000,"number_of_seats":200,"img":"https://leverageedu.com/blog/wp-content/uploads/2020/04/IELTS-Preparation-Tips.png"}, 
+   {"id":8 ,"serviceName":" GRE learning","Procedure":"online","price":3000,"number_of_seats":200,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz95dBwXdk8q7fASBvzkIpSxpMayxVeAamirmHNPouHn2bfHd9CMj6Qt4DQOkkAGerZGQ&usqp=CAU"}, 
+   {"id":9 ,"serviceName":" Emotional intelligence ","Procedure":"online","price":3000,"number_of_seats":400,"img":"https://images.mid-day.com/images/images/2021/apr/Emo_d.jpg"}, 
+   {"id":10 ,"serviceName":" Data science ","Procedure":"offline","price":4000,"number_of_seats":300,"img":"https://www.sharda.ac.in/blog/wp-content/uploads/2020/04/Data-Science-1.jpg"}, 
+   {"id":11 ,"serviceName":" Machine learning ","Procedure":"offline","price":5000,"number_of_seats":200,"img":"https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg"}, 
+   {"id":12 ,"serviceName":" Autocad ","Procedure":"offline","price":3000,"number_of_seats":400,"img":"https://cdn.educba.com/academy/wp-content/uploads/2019/01/AutoCAD-For-student.jpg"}
+]
